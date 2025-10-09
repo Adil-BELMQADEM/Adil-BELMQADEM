@@ -109,3 +109,11 @@ I design, build, and deliver scalable solutions — leading projects from archit
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Adil-BELMQADEM&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adil-BELMQADEM&layout=compact&theme=radical&langs_count=10" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adil-BELMQADEM/Adil-BELMQADEM/main/github-metrics.svg" alt="GitHub Metrics"/>
+</p>
