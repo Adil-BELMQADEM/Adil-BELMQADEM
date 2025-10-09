@@ -103,8 +103,9 @@ I design, build, and deliver scalable solutions — leading projects from archit
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Adil-BELMQADEM&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
-</p>
-<p align="center">
   <img src="https://github.com/Adil-BELMQADEM/Adil-BELMQADEM/blob/output/snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Adil-BELMQADEM&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
 </p>
