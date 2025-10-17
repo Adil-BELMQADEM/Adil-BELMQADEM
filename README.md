@@ -6,7 +6,7 @@
 
 <p align="center">
 Specializing in .NET and modern JavaScript/TypeScript technologies.  
-I design, build, and deliver scalable solutions — leading projects from architecture to deployment.
+I design, build, and deliver scalable solutions, leading projects from architecture to deployment.
 </p>
 
 ---
