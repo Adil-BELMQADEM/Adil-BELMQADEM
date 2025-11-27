@@ -1,8 +1,8 @@
 name: Generate Snake Animation
 
 on:
-  schedule: 
-    - cron: "0 0 * * *"   # tous les jours à minuit
+  schedule:
+    - cron: "0 */6 * * *"   # toutes les 6 heures
   workflow_dispatch:
   push:
     branches:
@@ -20,15 +20,16 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Adil-BELMQADEM
-          outputs: dist/snake.svg dist/snake.gif
-          snake_color: "#512BD4"
-          background: "#0D1117"
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake.gif
 
       - name: Push Snake Animation to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
-          keep_history: true
+          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
