@@ -14,7 +14,7 @@ I design, build, and deliver scalable solutions, leading projects from architect
 ## Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/adil-belmqadem"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="https://learn.microsoft.com/en-us/users/adilbelmqadem/"><img src="https://img.shields.io/badge/Microsoft_Learn-0078D4?logo=microsoft&logoColor=white" /></a>
+  <a href="https://learn.microsoft.com/en-us/users/adil-belmqadem/"><img src="https://img.shields.io/badge/Microsoft_Learn-0078D4?logo=microsoft&logoColor=white" /></a>
   <a href="https://www.credly.com/users/adil-belmqadem"><img src="https://img.shields.io/badge/Credly-Badge-FF6F00?logo=credly&logoColor=white" /></a>
 </p>
 
